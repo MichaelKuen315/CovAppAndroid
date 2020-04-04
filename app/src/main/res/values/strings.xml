@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CovApp</string>
+    <string name="message_sent">Message sent </string>
+    <string name="send_failed">Could not send</string>
+    <string name="url">http://www.xudis.com:8080/xudis/Gate</string>
+    <string name="quest">There was a match within the last 24 hours, do you want to send a message</string>
+</resources>
